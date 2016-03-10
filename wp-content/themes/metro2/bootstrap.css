@@ -5771,7 +5771,7 @@ button.close {
 @charset "UTF-8";
 @font-face {
   font-family: 'Billion Web Font';
-  src: url("http://www.cm-spb.ru/wp-content/themes/metro2/fonts/BillionWebFonts.woff") format('woff'), url("http://www.cm-spb.ru/wp-content/themes/metro2/fonts/BillionWebFonts.ttf") format('truetype');
+  src: url("http://alt-f13.github.io/cm/wp-content/themes/metro2/fonts/BillionWebFonts.woff") format('woff'), url("http://alt-f13.github.io/cm/wp-content/themes/metro2/fonts/BillionWebFonts.ttf") format('truetype');
   font-weight: normal;
   font-style: normal;
 }
